@@ -9,7 +9,7 @@ function App() {
           <Button text={"Open"}/>
           <Button text={"Close"}/>
           <Button text={"Edit"}/>
-          <User name={"elya"} age={20}/>
+          <User name={"com"} age={20}/>
           <Person name={"Emma"} zodiacSign={"Lion"}/>
 
       </>
